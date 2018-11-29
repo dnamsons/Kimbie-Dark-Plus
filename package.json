@@ -1,0 +1,40 @@
+{
+    "name": "kimbie-dark-plus",
+    "displayName": "Kimbie Dark+",
+    "description": "Kimbie Dark improved",
+    "version": "1.0.0",
+    "author": "Dāvis Namsons",
+    "publisher": "dnamsons",
+    "license": "Creative Commons Attribution-ShareAlike 4.0 Unported",
+    "icon": "logo.png",
+    "engines": {
+        "vscode": "^1.29.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kimbie Dark+",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kimbie Dark+-color-theme.json"
+            }
+        ]
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "kimbie",
+        "warm",
+        "improved"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dnamsons/Kimbie-Dark-Plus/"
+      },
+      "homepage": "https://github.com/dnamsons/Kimbie-Dark-Plus/",
+      "bugs": {
+        "url": "https://github.com/dnamsons/Kimbie-Dark-Plus/issues"
+    }
+}
