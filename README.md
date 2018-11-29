@@ -9,6 +9,12 @@
 
 A color scheme inspired by [Cold Spring Fault Less Youth](http://www.discogs.com/Mount-Kimbie-Cold-Spring-Fault-Less-Youth/master/561611), originally created by [Jan T. Sott](https://github.com/idleberg/Kimbie.tmTheme), modified by [Dāvis Namsons](https://github.com/dnamsons).
 
+## Improvements
+
+- Some syntax coloring improvements for CSS/JS/etc.
+- Better editor color scheme that is kind on the eyes
+- Prettier terminal & status bar colors!
+
 ## Color Reference
 
 ### Syntax Colors
