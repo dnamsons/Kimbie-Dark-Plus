@@ -3,6 +3,9 @@
 ![Kimbie Dark+ editor preview](./images/Kimbie_dark_plus.png)
 
 [![Creative Commons](https://img.shields.io/badge/license-CC--BY--SA%204.0-orange.svg?style=flat-square)](http://creativecommons.org/licenses/by-sa/4.0/)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-short/dnamsons.kimbie-dark-plus.svg)](https://marketplace.visualstudio.com/items?itemName=dnamsons.kimbie-dark-plus)
+[![Version](https://vsmarketplacebadge.apphb.com/version-short/dnamsons.kimbie-dark-plus.svg)](https://marketplace.visualstudio.com/items?itemName=dnamsons.kimbie-dark-plus)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/dnamsons.kimbie-dark-plus.svg)](https://marketplace.visualstudio.com/items?itemName=dnamsons.kimbie-dark-plus)
 
 A color scheme inspired by [Cold Spring Fault Less Youth](http://www.discogs.com/Mount-Kimbie-Cold-Spring-Fault-Less-Youth/master/561611), originally created by [Jan T. Sott](https://github.com/idleberg/Kimbie.tmTheme), modified by [Dāvis Namsons](https://github.com/dnamsons).
 
