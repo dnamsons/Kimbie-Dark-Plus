@@ -6,7 +6,7 @@
     "author": "Dāvis Namsons",
     "publisher": "dnamsons",
     "license": "Creative Commons Attribution-ShareAlike 4.0 Unported",
-    "icon": "logo.png",
+    "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.29.0"
     },
