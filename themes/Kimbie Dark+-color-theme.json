@@ -173,6 +173,7 @@
 				"entity.name.function",
 				"meta.require",
 				"support.function.any-method",
+				"support.function"
 			],
 			"settings": {
 				"foreground": "#8ab1b0"
@@ -201,13 +202,6 @@
 			"scope": "storage",
 			"settings": {
 				"foreground": "#98676a"
-			}
-		},
-		{
-			"name": "Support",
-			"scope": "support.function",
-			"settings": {
-				"foreground": "#7e602c"
 			}
 		},
 		{

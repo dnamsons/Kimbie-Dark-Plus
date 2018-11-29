@@ -1,11 +1,11 @@
 # Kimbie Dark+
 
-![Kimbie Dark+ editor preview](./images/Kimbie_dark_plus.png)
-
 [![Creative Commons](https://img.shields.io/badge/license-CC--BY--SA%204.0-orange.svg?style=flat-square)](http://creativecommons.org/licenses/by-sa/4.0/)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/dnamsons.kimbie-dark-plus.svg)](https://marketplace.visualstudio.com/items?itemName=dnamsons.kimbie-dark-plus)
 [![Version](https://vsmarketplacebadge.apphb.com/version-short/dnamsons.kimbie-dark-plus.svg)](https://marketplace.visualstudio.com/items?itemName=dnamsons.kimbie-dark-plus)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/dnamsons.kimbie-dark-plus.svg)](https://marketplace.visualstudio.com/items?itemName=dnamsons.kimbie-dark-plus)
+
+![Kimbie Dark+ editor preview](./images/Kimbie_dark_plus.png)
 
 A color scheme inspired by [Cold Spring Fault Less Youth](http://www.discogs.com/Mount-Kimbie-Cold-Spring-Fault-Less-Youth/master/561611), originally created by [Jan T. Sott](https://github.com/idleberg/Kimbie.tmTheme), modified by [Dāvis Namsons](https://github.com/dnamsons).
 
@@ -22,13 +22,13 @@ A color scheme inspired by [Cold Spring Fault Less Youth](http://www.discogs.com
 | Color                                                       | Usage                                                         |
 | :---------------------------------------------------------: | ------------------------------------------------------------- |
 | ![](https://via.placeholder.com/10/98676A?text=+) `#98676A` | Keywords, template literals, CSS pseudo classes and constants |
-| ![](https://via.placeholder.com/10/DC3958?text=+) `#DC3958` | Variables, tags                                 |
+| ![](https://via.placeholder.com/10/DC3958?text=+) `#DC3958` | Variables, tags                                               |
 | ![](https://via.placeholder.com/10/8AB1B0?text=+) `#8AB1B0` | Functions, CSS #ids, markup headings                          |
-| ![](https://via.placeholder.com/10/F79A32?text=+) `#F79A32` | Constants, attributes, units, markup links                                  |
+| ![](https://via.placeholder.com/10/F79A32?text=+) `#F79A32` | Constants, attributes, units, markup links                    |
 | ![](https://via.placeholder.com/10/889B4A?text=+) `#889B4A` | Strings, pseudo CSS, inherited classes                        |
 | ![](https://via.placeholder.com/10/088649?text=+) `#088649` | Embedded punctuation (e.g. `${}` or `{}` )                    |
 | ![](https://via.placeholder.com/10/F06431?text=+) `#F06431` | Classes, CSS classes                                          |
-| ![](https://via.placeholder.com/10/7E602C?text=+) `#7E602C` | Regex, escape characters, support functions                   |
+| ![](https://via.placeholder.com/10/7E602C?text=+) `#7E602C` | Regex, escape characters                                      |
 | ![](https://via.placeholder.com/10/D3AF86?text=+) `#D3AF86` | Property names, simple text                                   |
 
 ### Terminal Colors
