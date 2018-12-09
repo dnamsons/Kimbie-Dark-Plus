@@ -11,7 +11,7 @@ A color scheme inspired by [Cold Spring Fault Less Youth](http://www.discogs.com
 
 ## Improvements
 
-- Some syntax coloring improvements for CSS/JS/etc.
+- Some syntax coloring improvements for CSS/JS/Elixir/etc.
 - Better editor color scheme that is kind on the eyes
 - Prettier terminal & status bar colors!
 

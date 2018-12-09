@@ -102,7 +102,11 @@
 			}
 		},
 		{
-			"scope": ["meta.embedded", "source.groovy.embedded"],
+			"scope": [
+				"meta.embedded",
+				"source.groovy.embedded",
+				"source.elixir.embedded"
+			],
 			"settings": {
 				"foreground": "#d3af86"
 			}
@@ -184,7 +188,8 @@
 			"scope": [
 				"support.class",
 				"entity.name.class",
-				"entity.name.type"
+				"entity.name.type",
+				"variable.other.constant.elixir"
 			],
 			"settings": {
 				"foreground": "#f06431"
@@ -240,7 +245,8 @@
 			"name": "Constants",
 			"scope": [
 				"constant",
-				"meta.object-literal.key"
+				"meta.object-literal.key",
+				"constant.other.symbol"
 			],
 			"settings": {
 				"foreground": "#f79a32"
