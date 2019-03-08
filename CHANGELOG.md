@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.0.4] - 2019-03-08
+
+- Changed the extension icon
+
 ## [1.0.3] - 2018-12-09
 
 - Syntax coloring improvements for Elixir
