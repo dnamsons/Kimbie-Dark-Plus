@@ -154,7 +154,13 @@
 			"name": "Keywords",
 			"scope": [
 				"keyword",
-				"keyword.control"
+				"keyword.control",
+				"keyword.operator.haskell",
+				"keyword.other.haskell",
+				"keyword.other.forall.haskell",
+				"keyword.other.arrow.haskell",
+				"keyword.other.big-arrow.haskell",
+				"keyword.other.double-colon.haskell",
 			],
 			"settings": {
 				"foreground": "#98676a"
@@ -246,7 +252,8 @@
 			"scope": [
 				"constant",
 				"meta.object-literal.key",
-				"constant.other.symbol"
+				"constant.other.symbol",
+				"storage.type.haskell"
 			],
 			"settings": {
 				"foreground": "#f79a32"
@@ -451,5 +458,24 @@
 				"foreground": "#dc3958"
 			}
 		},
+		{
+			"scope": [
+				"entity.name.function.infix.haskell",
+				"entity.other.inherited-class.haskell"
+			],
+			"settings": {
+				"foreground": "#d3af86"
+			}
+		},
+		{
+			"name": "Preprocessor",
+			"scope": [
+				"meta.preprocessor.haskell",
+				"keyword.other.preprocessor.haskell"
+			],
+			"settings": {
+				"foreground": "#7e602c"
+			}
+		}
 	]
 }
