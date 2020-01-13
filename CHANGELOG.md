@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.0.5] - 2020-01-13
+
+- Added default color for embedded content in CoffeeScript([#2](https://github.com/dnamsons/Kimbie-Dark-Plus/pull/2)).
+- Improvements for Haskell syntax highlighting([#1](https://github.com/dnamsons/Kimbie-Dark-Plus/pull/1)).
+
 ## [1.0.4] - 2019-03-08
 
 - Changed the extension icon

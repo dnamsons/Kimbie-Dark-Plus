@@ -2,7 +2,7 @@
     "name": "kimbie-dark-plus",
     "displayName": "Kimbie Dark+",
     "description": "Kimbie Dark improved",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "author": "Dāvis Namsons",
     "publisher": "dnamsons",
     "license": "Creative Commons Attribution-ShareAlike 4.0 Unported",
@@ -32,9 +32,9 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/dnamsons/Kimbie-Dark-Plus/"
-      },
-      "homepage": "https://github.com/dnamsons/Kimbie-Dark-Plus/",
-      "bugs": {
+    },
+    "homepage": "https://github.com/dnamsons/Kimbie-Dark-Plus/",
+    "bugs": {
         "url": "https://github.com/dnamsons/Kimbie-Dark-Plus/issues"
     }
 }
