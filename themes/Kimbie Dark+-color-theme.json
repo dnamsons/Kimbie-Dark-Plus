@@ -105,7 +105,8 @@
 			"scope": [
 				"meta.embedded",
 				"source.groovy.embedded",
-				"source.elixir.embedded"
+				"source.elixir.embedded",
+				"source.coffee.embedded"
 			],
 			"settings": {
 				"foreground": "#d3af86"
