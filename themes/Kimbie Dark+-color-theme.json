@@ -159,7 +159,8 @@
         "keyword.other.big-arrow.haskell",
         "keyword.other.double-colon.haskell",
         "variable.language.rust",
-        "keyword.operator.misc.rust"
+        "keyword.operator.misc.rust",
+        "variable.language"
       ],
       "settings": {
         "foreground": "#98676a"
@@ -436,7 +437,11 @@
     },
     {
       "name": "Embedded",
-      "scope": ["punctuation.section.embedded", "variable.interpolation"],
+      "scope": [
+        "punctuation.section.embedded",
+        "punctuation.definition.template-expression",
+        "variable.interpolation"
+      ],
       "settings": {
         "foreground": "#088649"
       }
