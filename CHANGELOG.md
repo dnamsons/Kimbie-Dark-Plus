@@ -1,5 +1,12 @@
 # Changelog
+
 All notable changes to this project will be documented in this file.
+
+## [1.1.0] - 2020-02-01
+
+- Changed syntax coloring for inherited classes([#7](https://github.com/dnamsons/Kimbie-Dark-Plus/pull/8))
+- Improvements to Javascript syntax highlighting([#6](https://github.com/dnamsons/Kimbie-Dark-Plus/pull/6))
+- Improvements to Rust syntax highlighting([#5](https://github.com/dnamsons/Kimbie-Dark-Plus/pull/5))
 
 ## [1.0.5] - 2020-01-13
 
