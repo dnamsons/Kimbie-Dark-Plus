@@ -195,7 +195,8 @@
         "support.class",
         "entity.name.class",
         "entity.name.type",
-        "variable.other.constant.elixir"
+        "variable.other.constant.elixir",
+        "entity.other.inherited-class"
       ],
       "settings": {
         "foreground": "#f06431"
@@ -216,12 +217,8 @@
       }
     },
     {
-      "name": "Strings, Inherited Class",
-      "scope": [
-        "string",
-        "constant.other.symbol",
-        "entity.other.inherited-class"
-      ],
+      "name": "Strings",
+      "scope": ["string", "constant.other.symbol"],
       "settings": {
         "foreground": "#889b4a"
       }
