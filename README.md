@@ -11,15 +11,15 @@ A color scheme inspired by [Cold Spring Fault Less Youth](http://www.discogs.com
 
 ## Improvements
 
-- Some syntax coloring improvements for CSS/JS/Elixir/etc.
+- Syntax coloring improvements for CSS/JS/Elixir/Rust/etc.
 - Better editor color scheme that is kind on the eyes
-- Prettier terminal & status bar colors!
+- Improved UI colors
 
 ## Color Reference
 
 ### Syntax Colors
 
-| Color                                                       | Usage                                                         |
+|                            Color                            | Usage                                                         |
 | :---------------------------------------------------------: | ------------------------------------------------------------- |
 | ![](https://via.placeholder.com/10/98676A?text=+) `#98676A` | Keywords, template literals, CSS pseudo classes and constants |
 | ![](https://via.placeholder.com/10/DC3958?text=+) `#DC3958` | Variables, tags                                               |
@@ -28,22 +28,20 @@ A color scheme inspired by [Cold Spring Fault Less Youth](http://www.discogs.com
 | ![](https://via.placeholder.com/10/889B4A?text=+) `#889B4A` | Strings, pseudo CSS, inherited classes                        |
 | ![](https://via.placeholder.com/10/088649?text=+) `#088649` | Embedded punctuation (e.g. `${}` or `{}` )                    |
 | ![](https://via.placeholder.com/10/F06431?text=+) `#F06431` | Classes, CSS classes                                          |
-| ![](https://via.placeholder.com/10/7E602C?text=+) `#7E602C` | Regex, escape characters                                      |
+| ![](https://via.placeholder.com/10/7E602C?text=+) `#7E602C` | Regex, escape characters, attributes and preprocessors        |
 | ![](https://via.placeholder.com/10/D3AF86?text=+) `#D3AF86` | Property names, simple text                                   |
 
 ### Terminal Colors
 
-| Color               | Normal                                                      | Bright                                                      |
+|        Color        |                           Normal                            |                           Bright                            |
 | :-----------------: | :---------------------------------------------------------: | :---------------------------------------------------------: |
-| Blue                | ![](https://via.placeholder.com/10/719190?text=+) `#719190` | ![](https://via.placeholder.com/10/8AB1B0?text=+) `#8AB1B0` |
-| Cyan                | ![](https://via.placeholder.com/10/418292?text=+) `#418292` | ![](https://via.placeholder.com/10/4C96A8?text=+) `#4C96A8` |
-| Green               | ![](https://via.placeholder.com/10/889B4A?text=+) `#889B4A` | ![](https://via.placeholder.com/10/A3B95A?text=+) `#A3B95A` |
-| Magenta             | ![](https://via.placeholder.com/10/7E5053?text=+) `#7E5053` | ![](https://via.placeholder.com/10/98676A?text=+) `#98676A` |
-| Red                 | ![](https://via.placeholder.com/10/DC3958?text=+) `#DC3958` | ![](https://via.placeholder.com/10/F14A68?text=+) `#F14A68` |
-| Yellow              | ![](https://via.placeholder.com/10/F79A32?text=+) `#F79A32` | ![](https://via.placeholder.com/10/FCAC51?text=+) `#FCAC51` |
+|        Blue         | ![](https://via.placeholder.com/10/719190?text=+) `#719190` | ![](https://via.placeholder.com/10/8AB1B0?text=+) `#8AB1B0` |
+|        Cyan         | ![](https://via.placeholder.com/10/418292?text=+) `#418292` | ![](https://via.placeholder.com/10/4C96A8?text=+) `#4C96A8` |
+|        Green        | ![](https://via.placeholder.com/10/889B4A?text=+) `#889B4A` | ![](https://via.placeholder.com/10/A3B95A?text=+) `#A3B95A` |
+|       Magenta       | ![](https://via.placeholder.com/10/7E5053?text=+) `#7E5053` | ![](https://via.placeholder.com/10/98676A?text=+) `#98676A` |
+|         Red         | ![](https://via.placeholder.com/10/DC3958?text=+) `#DC3958` | ![](https://via.placeholder.com/10/F14A68?text=+) `#F14A68` |
+|       Yellow        | ![](https://via.placeholder.com/10/F79A32?text=+) `#F79A32` | ![](https://via.placeholder.com/10/FCAC51?text=+) `#FCAC51` |
 | Foreground(Default) | ![](https://via.placeholder.com/10/C2A383?text=+) `#C2A383` |                                                             |
-
-
 
 ## License
 
