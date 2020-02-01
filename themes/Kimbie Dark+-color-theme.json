@@ -157,7 +157,9 @@
         "keyword.other.forall.haskell",
         "keyword.other.arrow.haskell",
         "keyword.other.big-arrow.haskell",
-        "keyword.other.double-colon.haskell"
+        "keyword.other.double-colon.haskell",
+        "variable.language.rust",
+        "keyword.operator.misc.rust"
       ],
       "settings": {
         "foreground": "#98676a"
@@ -456,8 +458,9 @@
       }
     },
     {
-      "name": "Preprocessor",
+      "name": "Preprocessors and attributes",
       "scope": [
+        "meta.attribute.rust",
         "meta.preprocessor.haskell",
         "keyword.other.preprocessor.haskell"
       ],
