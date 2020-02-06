@@ -127,7 +127,8 @@
         "punctuation.definition.parameters",
         "punctuation.definition.string",
         "punctuation.definition.array",
-        "punctuation.definition.entity"
+        "punctuation.definition.entity",
+        "punctuation.separator.inheritance"
       ],
       "settings": {
         "foreground": "#d3af86"
