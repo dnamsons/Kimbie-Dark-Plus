@@ -59,6 +59,7 @@
     "pickerGroup.border": "#e3b583",
     "pickerGroup.foreground": "#e3b583",
     "progressBar.background": "#7f5d38",
+    "rust_analyzer.inlayHint": "#7e6944",
     "scrollbarSlider.background": "#3b2b1be1",
     "scrollbarSlider.hoverBackground": "#473522dc",
     "scrollbarSlider.activeBackground": "#5c452dbb",
