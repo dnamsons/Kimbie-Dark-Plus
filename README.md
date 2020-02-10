@@ -5,15 +5,32 @@
 [![Version](https://vsmarketplacebadge.apphb.com/version-short/dnamsons.kimbie-dark-plus.svg)](https://marketplace.visualstudio.com/items?itemName=dnamsons.kimbie-dark-plus)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/dnamsons.kimbie-dark-plus.svg)](https://marketplace.visualstudio.com/items?itemName=dnamsons.kimbie-dark-plus)
 
-![Kimbie Dark+ editor preview](./images/Kimbie_dark_plus.png)
-
 A color scheme inspired by [Cold Spring Fault Less Youth](http://www.discogs.com/Mount-Kimbie-Cold-Spring-Fault-Less-Youth/master/561611), originally created by [Jan T. Sott](https://github.com/idleberg/Kimbie.tmTheme), modified by [Dāvis Namsons](https://github.com/dnamsons).
 
 ## Improvements
 
-- Syntax coloring improvements for CSS/JS/Elixir/Rust/etc.
+- Syntax coloring improvements for Ruby/JS/Elixir/Rust/etc.
 - Better editor color scheme that is kind on the eyes
-- Improved UI colors
+- Improved UI & terminal colors
+
+## Screenshots
+
+### React
+
+![React syntax highlighting demonstration](./images/react.png)
+
+### Ruby
+
+![Ruby syntax highlighting demonstration](./images/ruby.png)
+
+### Rust
+
+![Rust syntax highlighting demonstration](./images/rust.png)
+
+
+### Integrated terminal colors
+
+![Terminal color theme demonstration](./images/terminal.png)
 
 ## Color Reference
 
