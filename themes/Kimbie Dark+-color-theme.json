@@ -97,6 +97,7 @@
   },
   "tokenColors": [
     {
+      "scope": "source",
       "settings": {
         "foreground": "#d3af86"
       }
@@ -132,6 +133,8 @@
         "punctuation.separator.inheritance",
         "comment.line.keyword.punctuation.yard",
         "comment.line.punctuation.yard",
+        "punctuation.section.function.ruby",
+        "punctuation.separator.object.ruby"
       ],
       "settings": {
         "foreground": "#d3af86"
