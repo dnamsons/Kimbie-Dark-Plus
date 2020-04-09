@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.2.0] - 2020-04-09
+
+- Fix command palette syntax highlighting after VSCode 1.44 update([#14](https://github.com/dnamsons/Kimbie-Dark-Plus/pull/14))
+- Fix default scope getting overwritten for some punctiation types([#13](https://github.com/dnamsons/Kimbie-Dark-Plus/pull/13))
+- Add syntax highlighting for YARD docs([#12](https://github.com/dnamsons/Kimbie-Dark-Plus/pull/12))
+- Custom color for rust-analyzer inlay hint([#11](https://github.com/dnamsons/Kimbie-Dark-Plus/pull/11))
+- Syntax coloring to inheritance symbol([#10](https://github.com/dnamsons/Kimbie-Dark-Plus/pull/10))
+
 ## [1.1.0] - 2020-02-01
 
 - Changed syntax coloring for inherited classes([#7](https://github.com/dnamsons/Kimbie-Dark-Plus/pull/8))
