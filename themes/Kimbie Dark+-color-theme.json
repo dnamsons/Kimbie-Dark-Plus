@@ -98,6 +98,7 @@
     "terminal.ansiYellow": "#f79a32",
     "terminal.foreground": "#c2a383"
   },
+  "semanticHighlighting": true,
   "tokenColors": [
     {
       "scope": "source",
@@ -169,7 +170,6 @@
         "keyword.other.big-arrow.haskell",
         "keyword.other.double-colon.haskell",
         "variable.language.rust",
-        "keyword.operator.misc.rust",
         "variable.language",
         "comment.line.keyword.yard"
       ],
@@ -183,7 +183,8 @@
         "variable",
         "variable.parameter.function",
         "support.variable.property",
-        "comment.line.parameter.yard"
+        "comment.line.parameter.yard",
+        "entity.name.function.member"
       ],
       "settings": {
         "foreground": "#dc3958"
@@ -202,6 +203,13 @@
       }
     },
     {
+      "name": "Namespaces",
+      "scope": "entity.name.namespace",
+      "settings": {
+        "foreground": "#f06431"
+      }
+    },
+    {
       "name": "Classes",
       "scope": [
         "support.class",
@@ -209,7 +217,8 @@
         "entity.name.type",
         "variable.other.constant.elixir",
         "entity.other.inherited-class",
-        "comment.line.type.yard"
+        "comment.line.type.yard",
+        "storage.type.struct"
       ],
       "settings": {
         "foreground": "#f06431"
@@ -263,7 +272,8 @@
         "constant",
         "meta.object-literal.key",
         "constant.other.symbol",
-        "storage.type.haskell"
+        "storage.type.haskell",
+        "variable.other.enummember"
       ],
       "settings": {
         "foreground": "#f79a32"
