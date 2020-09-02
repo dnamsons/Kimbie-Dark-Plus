@@ -210,7 +210,7 @@
       }
     },
     {
-      "name": "Classes",
+      "name": "Classes & types",
       "scope": [
         "support.class",
         "entity.name.class",
@@ -218,7 +218,8 @@
         "variable.other.constant.elixir",
         "entity.other.inherited-class",
         "comment.line.type.yard",
-        "storage.type.struct"
+        "storage.type.struct",
+        "support.type.primitive"
       ],
       "settings": {
         "foreground": "#f06431"
