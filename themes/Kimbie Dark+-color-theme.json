@@ -220,7 +220,8 @@
         "entity.other.inherited-class",
         "comment.line.type.yard",
         "storage.type.struct",
-        "support.type.primitive"
+        "support.type.primitive",
+        "support.type.builtin"
       ],
       "settings": {
         "foreground": "#f06431"
