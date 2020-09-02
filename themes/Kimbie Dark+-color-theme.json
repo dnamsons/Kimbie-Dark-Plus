@@ -35,6 +35,7 @@
     "gitDecoration.modifiedResourceForeground": "#f79a32",
     "gitDecoration.deletedResourceForeground": "#dc3958",
     "gitlens.trailingLineForegroundColor": "#cc9868",
+    "input.foreground": "#d3af86",
     "input.background": "#51412c",
     "input.placeholderForeground": "#998158",
     "inputOption.activeBorder": "#a57a4c",
