@@ -1,4 +1,6 @@
-# Kimbie Dark+
+<div style='text-align: center;'>
+  <h1>Kimbie Dark+</h1>
+</div>
 
 [![Creative Commons](https://img.shields.io/badge/license-CC--BY--SA%204.0-orange.svg?style=flat-square)](http://creativecommons.org/licenses/by-sa/4.0/)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/dnamsons.kimbie-dark-plus.svg)](https://marketplace.visualstudio.com/items?itemName=dnamsons.kimbie-dark-plus)
@@ -12,6 +14,7 @@ A color scheme inspired by [Cold Spring Fault Less Youth](http://www.discogs.com
 - Syntax coloring improvements for Ruby/JS/Elixir/Rust/etc.
 - Better editor color scheme that is kind on the eyes
 - Improved UI & terminal colors
+- Support for semantic syntax highlighting
 
 ## Screenshots
 

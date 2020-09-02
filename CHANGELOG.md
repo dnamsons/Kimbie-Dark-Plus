@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.3.0] - 2020-09-02
+
+- Improvements to foreground colors([#18](https://github.com/dnamsons/Kimbie-Dark-Plus/pull/18))
+  - Input foreground colors
+  - Icon foreground color
+  - editor widget foreground color
+- Improvements to Typescript syntax highlighting([#17](https://github.com/dnamsons/Kimbie-Dark-Plus/pull/17))
+- Enable semantic syntax highlighting([#15](https://github.com/dnamsons/Kimbie-Dark-Plus/pull/15))
+
 ## [1.2.0] - 2020-04-09
 
 - Fix command palette syntax highlighting after VSCode 1.44 update([#14](https://github.com/dnamsons/Kimbie-Dark-Plus/pull/14))
