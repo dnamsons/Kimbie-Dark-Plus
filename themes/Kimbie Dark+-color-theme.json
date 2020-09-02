@@ -28,6 +28,7 @@
     "editorRuler.foreground": "#cc986869",
     "editorHoverWidget.background": "#221a14",
     "editorWhitespace.foreground": "#a57a4c",
+    "editorWidget.foreground": "#C2A383",
     "editorWidget.background": "#131510",
     "focusBorder": "#a57a4c",
     "gitDecoration.addedResourceForeground": "#7b991a",
