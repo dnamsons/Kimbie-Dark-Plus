@@ -62,7 +62,7 @@
     "progressBar.background": "#7f5d38",
     "quickInput.background": "#352612",
     "quickInput.foreground": "#DCB893",
-    "rust_analyzer.inlayHint": "#7e6944",
+    "rust_analyzer.inlayHints.foreground": "#7e6944",
     "scrollbarSlider.background": "#3b2b1be1",
     "scrollbarSlider.hoverBackground": "#473522dc",
     "scrollbarSlider.activeBackground": "#5c452dbb",
