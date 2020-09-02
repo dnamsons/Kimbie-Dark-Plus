@@ -171,7 +171,8 @@
         "keyword.other.double-colon.haskell",
         "variable.language.rust",
         "variable.language",
-        "comment.line.keyword.yard"
+        "comment.line.keyword.yard",
+        "keyword.operator.expression"
       ],
       "settings": {
         "foreground": "#98676a"
