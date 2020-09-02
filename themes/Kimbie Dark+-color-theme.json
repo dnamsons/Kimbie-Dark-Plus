@@ -196,7 +196,8 @@
         "entity.name.function",
         "meta.require",
         "support.function.any-method",
-        "support.function"
+        "support.function",
+        "keyword.operator.new"
       ],
       "settings": {
         "foreground": "#8ab1b0"
